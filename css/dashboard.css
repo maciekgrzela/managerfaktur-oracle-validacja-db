@@ -1,0 +1,22 @@
+.options a {
+    margin-bottom: 1rem;
+    padding: 1.2rem;
+}
+.options hr {
+    margin-top: 0.2rem;
+}
+.navbar-text {
+    font-size: 1.1rem;
+}
+.section-title {
+    margin-top: 2rem;
+    margin-bottom: 0.2rem;
+}
+
+.section-first {
+    margin-top: 1rem;
+}
+
+.client-pass {
+    color: rgb(255,255,255);
+}

@@ -1,0 +1,12 @@
+{
+    "name": "maciek/manager-faktur-bazy-danych",
+    "require": {
+        "taq/pdooci": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Maciej",
+            "email": "maciekgrzela@outlook.com"
+        }
+    ]
+}

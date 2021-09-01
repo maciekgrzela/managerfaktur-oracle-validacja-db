@@ -1,0 +1,49 @@
+[
+    {
+        "name": "taq/pdooci",
+        "version": "1.0.7",
+        "version_normalized": "1.0.7.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/taq/pdooci.git",
+            "reference": "898a8fcef39b7cf748454c06e98c45baecffca94"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/taq/pdooci/zipball/898a8fcef39b7cf748454c06e98c45baecffca94",
+            "reference": "898a8fcef39b7cf748454c06e98c45baecffca94",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2016-09-24T21:51:27+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PDOOCI\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL"
+        ],
+        "authors": [
+            {
+                "name": "Eustaquio Rangel",
+                "email": "eustaquiorangel@gmail.com",
+                "homepage": "http://eustaquiorangel.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "Replacement for the PHP PDO OCI class",
+        "homepage": "http://github.com/taq/pdooci",
+        "keywords": [
+            "oci",
+            "oracle",
+            "pdo",
+            "pdo_oci"
+        ]
+    }
+]
